@@ -1,6 +1,7 @@
 # AlzApp
 
-AlzApp: A Tool for Exploration and Visualization of Frontotemporal Dementia scRNAseq Data
+## AlzApp: A Tool for Exploration and Visualization of Frontotemporal Dementia scRNAseq Data
+
 Live app at: https://inciteprojects.idea.rpi.edu/alzapp/app/alzapp/
 Code available at: https://github.rpi.edu/DataINCITE/AlzApp
 
